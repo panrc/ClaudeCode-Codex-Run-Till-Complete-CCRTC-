@@ -101,8 +101,8 @@ python auto_test.py "npm run dev" 120
 - 可选 pyperclip 库用于剪贴板功能
 
 如果觉得有帮助，欢迎资助作者
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0231f3ab-6600-44c8-b9f2-e26747a3c905" width="300">
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/0231f3ab-6600-44c8-b9f2-e26747a3c905" width="300" >
   <img src="https://github.com/user-attachments/assets/49a5563c-0f00-462c-8272-84ba9e6747c4" width="300">
 </p>
 
